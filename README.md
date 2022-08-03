@@ -1,4 +1,4 @@
-## <p align="center">Welcome to my blog 🤞</p>
+## <p align="center">Welcome to my homepage 🤞</p>
 
 <!-- logo -->
 <p align="center">
@@ -40,17 +40,13 @@
 
 <!-- 访问者 -->
 
-- 🧑 Visitor
+- 🎉 Visitor
 
-  You are my ![Visitor Count](https://profile-counter.glitch.me/l-x-f/count.svg) visitor, Thank You!🎉🎉
+  You are my ![Visitor Count](https://profile-counter.glitch.me/l-x-f/count.svg) visitor, Thank You!
 
 <!-- 仓库用的最多的语言 -->
 
 - 🌐 Top Langs
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-x-f)](https://github.com/l-x-f/github-readme-stats)
-
-    <!-- 仓库用的最多的语言 -->
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=l-x-f&layout=compact)
 
@@ -62,7 +58,7 @@
 
 - 🤹🏻 Skill
 
- <div align="center">
+ <div>
    <!-- javascript -->
    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
    <!-- vuejs -->
@@ -99,6 +95,6 @@
    <img style="margin: 10px" src="https://www.eggjs.org/logo.svg" alt="egg" height="50" />
 </div>
 
-- 📧 Email
+- 📧 Call Me
 
-  [Gmail](mailto:lixiaofei0627@gmail.com) [QQ](mailto:1446628111@qq.com)
+  [Gmail](mailto:lixiaofei0627@gmail.com) [QQ](mailto:1446628111@qq.com) [CSDN](https://blog.csdn.net/qq_39953537)
