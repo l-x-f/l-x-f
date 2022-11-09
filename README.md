@@ -52,48 +52,9 @@
 
 <!-- 仓库stat 数 -->
 
-- ⭐ Stars
+- ⭐ Stats
 
   ![xiaofei's GitHub stats](https://github-readme-stats.vercel.app/api?username=l-x-f&show_icons=true)
-
-- 🤹🏻 Skill
-
- <div>
-   <!-- javascript -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-   <!-- vuejs -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-   <!-- react -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-   <!-- webpack -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" />
-   <!-- vite -->
-   <img style="margin: 10px" src="https://img.shields.io/badge/vite-000?logo=vite&logoColor=646cff" alt="vite" height="50" />
-   <!-- jquery -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-   <!-- sass -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />
-   <!-- powershell -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />
-   <!-- bootstrap -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-   <!-- css3 -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-   <!-- html5 -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-   <!-- node -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-   <!-- Linux -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-   <!-- nginx -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />
-   <!-- mongodb -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-   <!-- mysql -->
-   <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-   <!-- egg -->
-   <img style="margin: 10px" src="https://www.eggjs.org/logo.svg" alt="egg" height="50" />
-</div>
 
 - 📧 Call Me
 
